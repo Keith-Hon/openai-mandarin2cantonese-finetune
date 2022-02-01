@@ -1,0 +1,1 @@
+openai api fine_tunes.create -t data_prepared.jsonl -m davinci
